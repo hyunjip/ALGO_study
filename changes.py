@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input('거스름돈 : '))
 count = 0
 
 # 큰 단위의 화폐부터 차례대로 확인하기
